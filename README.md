@@ -29,4 +29,4 @@ python pyTest.py
 Output result will be written in ```/Project/CvPyDemo/detectorResults.csv```
 
 ## See also
-[www.matteobustreo.com](https://www.matteobustreo.com)
+[www.matteobustreo.com](http://www.matteobustreo.com)
